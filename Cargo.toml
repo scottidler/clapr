@@ -1,0 +1,8 @@
+# Workspace configuration
+[workspace]
+members = [
+    "clapr",
+    "derive"
+]
+
+resolver = "2"

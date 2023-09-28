@@ -1,0 +1,12 @@
+[package]
+name = "clapr"
+version = "0.1.0"
+edition = "2021"
+
+# Dependencies for the main clapr crate
+[dependencies]
+derive = { path = "../derive" }
+
+# Other dependencies
+# ...
+
