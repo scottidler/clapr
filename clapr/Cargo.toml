@@ -2,6 +2,7 @@
 name = "clapr"
 version = "0.1.0"
 edition = "2021"
+build = "build.rs"
 
 # Dependencies for the main clapr crate
 [dependencies]
